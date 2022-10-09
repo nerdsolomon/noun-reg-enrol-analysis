@@ -1,0 +1,115 @@
+﻿Code,Centre,L100,L200,L300,L400,L500,L700,L800,L900,Total
+AB01,Umudike Study Centre,157,222,266,3857,1742,707,982,2,7935
+AB02,Umuahia Correctional Service Study Centre,0,3,0,17,0,1,0,0,21
+AB03,Asaga Community Study Centre,19,16,16,115,7,26,39,0,238
+AD01,Yola Study Centre,173,266,239,1400,342,353,685,1,3459
+AD02,Gulak Community Study Centre,26,41,46,277,58,57,151,0,656
+AK01,Uyo Study Centre,472,584,685,5923,1272,1084,1370,1,11391
+AN01,Awka Study Centre,242,374,404,12171,2787,892,1548,0,18418
+AN02,Nigeria Correctional Service Special Study Centre Awka,4,5,1,6,0,2,2,0,20
+AN03,Isulo Community Study Centre,14,29,32,260,71,64,109,0,579
+BA01,Azare Community Study Centre,45,151,147,479,60,145,375,0,1402
+BA02,Bauchi Study Centre,101,172,196,2300,548,334,758,2,4411
+BA03,Bogoro Community Study Centre,23,59,40,314,110,27,104,0,677
+BN01,Makurdi Study Centre,273,430,493,6128,854,454,838,3,9473
+BN02,Otukpo Study Centre,44,68,81,1024,182,183,253,0,1835
+BN03,Ugbokolo Study Centre,7,16,15,80,9,21,41,0,189
+BO01,Maiduguri Study Centre,123,218,317,1251,665,332,1010,2,3918
+BY01,Yenagoa Study Centre,260,308,320,3692,961,805,943,1,7290
+CR01,Calabar Study Centre,268,283,256,4290,1097,771,980,2,7947
+CR02,Ikom Community Study Centre,69,141,151,630,78,229,399,0,1697
+DE01,Asaba Study Centre,367,376,436,9290,1466,1266,1716,2,14919
+DE02,Emevor Community Study Centre,93,131,186,1441,334,357,513,0,3055
+DE03,Owhrode Community Study Centre,175,245,277,926,152,244,350,0,2369
+DE04,Sapele Community Study Centre,69,71,25,37,13,20,35,0,270
+DE05,Onicha-Ugbo Study Centre,4,2,0,0,0,2,4,0,12
+DE06,Patani Community Study Centre,7,3,3,6,3,3,9,0,34
+EB01,Abakaliki Study Centre,155,160,213,1271,308,329,510,1,2947
+ED01,Benin Study Centre,628,689,627,25197,4291,1615,2295,3,35345
+ED02,Fugar Community Study Centre,36,69,57,274,37,142,102,0,717
+ED03,Uromi Community Study Centre,35,85,103,221,289,113,127,1,974
+EK01,Ado-Ekiti Study Centre,181,230,188,4925,1224,472,731,1,7952
+EN01,Awgu Community Study Centre,12,16,12,276,88,62,139,1,606
+EN02,Enugu Study Centre,238,306,340,10439,3371,1503,1846,2,18045
+EN03,Nigerian Correctional Service Special Study Centre Enugu,24,29,34,171,8,1,11,0,278
+EN04,Opi Community Study Centre Nsuka,21,34,50,85,20,26,27,0,263
+FC01,Abuja Model Study Centre,2356,2559,2153,27447,3471,5939,9917,44,53886
+FC03,National Union Of Road Transport Workers Special Study Centre Garki Abuja,747,861,817,6228,427,1596,2361,23,13060
+FC04,Nigeria Immigration Service Special Study Centre Abuja,194,300,243,2667,513,642,1079,3,5641
+FC05,Nigeria Police Special Study Centre Kubwa Abuja,198,247,243,1718,151,264,460,1,3282
+FC06,Nigeria Security And Civil Defence Special Study Centre Sauka Abuja,544,572,502,1992,110,533,816,3,5072
+FC07,Special Study Centre Nigerian Correctional Service National Headquarters Abuja,124,127,109,386,24,118,208,1,1097
+FC08,Viite Special Study Centre Abuja,0,0,12,74,10,13,20,0,129
+FC09,Wuse II Study Centre Abuja,2600,2515,1962,8228,405,2636,4098,20,22464
+FC11,Kuje Correctional Service Study Centre,31,52,34,59,1,3,5,2,187
+GM01,Gombe Study Centre,102,214,190,1150,289,260,485,3,2693
+IM01,Owerri Study Centre,217,289,349,5779,2355,1145,1613,4,11751
+JG01,Dutse Study Centre,64,139,188,1140,340,188,316,1,2376
+JG02,Hadejia Study Centre,28,108,68,34,5,5,39,0,287
+KB01,Kebbi Study Centre,70,159,207,684,209,109,378,1,1817
+KD01,Kaduna Study Centre,573,749,691,8445,1555,1235,1846,3,15097
+KD02,Kagoro Study Centre,49,97,112,223,57,49,91,0,678
+KD03,Nigerian Air Force Special Study Centre Kaduna,154,244,265,640,87,167,300,0,1857
+KD04,Kaduna Correctional Service Study Centre,14,7,13,34,1,7,4,0,80
+KG01,Idah Community Study Centre,20,23,30,228,18,51,80,2,452
+KG02,Iyara Community Study Centre,28,39,42,425,76,75,141,1,827
+KG03,Lokoja Study Centre,150,186,228,2961,628,663,984,2,5802
+KG04,Ogori Community Study Centre,22,38,44,1095,179,150,225,1,1754
+KN01,Kano Study Centre,436,676,847,6333,1023,708,1701,3,11727
+KN02,Shanono Study Centre,1,13,8,0,0,1,3,0,26
+KN03,Bagwai Study Centre,18,4,2,1,0,2,6,0,33
+KN04,Rimi Gado Study Centre,11,8,10,5,0,3,18,0,55
+KN05,Dawakin Tofa Study Centre,23,18,1,1,0,3,10,0,56
+KN06,Kabo Study Centre,10,18,9,2,0,3,3,0,45
+KN07,Tofa Study Centre,7,11,15,1,0,2,4,0,40
+KN08,Bichi Study Centre,11,15,7,1,0,0,11,0,45
+KN09,Danbatta Study Centre,31,35,11,17,2,7,15,0,118
+KN10,Gwarzo Study Centre,8,12,17,0,0,0,2,0,39
+KN11,Kunchi Study Centre,14,16,0,8,2,0,8,0,48
+KN12,Makoda Study Centre,28,14,0,0,0,0,3,0,45
+KN13,Gabasawa Study Centre,18,11,0,0,0,1,1,0,31
+KN14,Tsanyawa Study Centre,3,15,0,0,0,0,1,0,19
+KN15,Dawakin Kudu Study Centre,16,12,4,2,0,9,10,0,53
+KN16,Fagge Study Centre,248,333,120,27,2,65,199,1,995
+KN17,Kwaciri Study Centre,57,103,42,31,2,28,94,1,358
+KT02,Katsina Study Centre,169,379,424,2060,760,319,719,1,4831
+KT03,Masari Community Study Centre,104,210,200,448,7,30,78,0,1077
+KW01,Ilorin Study Centre,317,520,620,11980,1578,1100,1769,3,17887
+KW02,Nigeria Army Special Study Centre Ilorin,28,47,32,143,30,29,72,0,381
+KW04,Offa Community Study Centre,30,54,52,535,43,94,169,0,977
+LA01,Lagos Study Centre,4002,4176,3274,59977,6964,6477,7966,19,92855
+LA02,Mccarthy Study Centre Lagos,1612,1729,1395,15210,617,2218,2307,2,25090
+LA03,Mushin Study Centre Lagos,970,894,873,6920,323,1345,1282,1,12608
+LA04,Nigeria Navy Special Study Centre Apapa Lagos,548,485,467,17849,1469,1326,1750,2,23896
+LA05,Nigerian Medium Security Correctional Service Special Study Centre Kirikiri Lagos,1,0,0,22,0,0,4,0,27
+LA07,Nigerian Maximum Security Correctional Service Special Study Centre Kirikiri,78,81,0,92,4,8,16,1,280
+LA08,Nigerian Female Correctional Service Special Study Centre Kirikiri,0,0,0,10,0,1,1,0,12
+LA09,Nigeria Correctional Service Special Study Centre Ikoyi,0,0,1,69,4,6,9,0,89
+LA10,Badagry Study Centre,0,0,1,0,0,0,0,0,1
+NG01,Minna Study Centre,225,367,395,3906,725,943,1855,0,8416
+NS01,Lafia Study Centre,91,150,143,2140,643,353,690,1,4211
+NS02,Nigeria Correctional Service Special Study Centre Keffi,29,36,1,73,18,4,20,0,181
+NS03,Lafia Correctional Service Study Centre,11,3,1,9,1,0,1,0,26
+OG01,Abeokuta Study Centre,1042,1345,1120,22718,1661,1306,1609,2,30803
+OG02,Awa-Ijebu Community Study Centre,144,168,136,6390,576,263,298,0,7975
+OG03,Abeokuta Correctional Service Study Centre,19,28,2,33,0,0,3,0,85
+OG04,Ilaro Community Study Centre,17,5,1,2,1,1,3,0,30
+ON01,Akure Study Centre,399,573,510,8621,2051,938,1453,1,14546
+ON02,Isua-Akoko Community Study Centre,8,27,0,5,0,6,16,0,62
+ON03,Oka-Akoko Community Study Centre,34,12,0,0,0,3,30,0,79
+OS01,Iwo Study Centre,59,81,91,595,36,85,122,0,1069
+OS02,Osogbo Study Centre,459,726,642,10723,1751,944,1235,1,16481
+OS03,Otan-Ayegbaju Community Study Centre,4,20,20,177,6,24,42,0,293
+OS05,ILESHA CORRECTIONAL SERVICE SPECIAL STUDY CENTRE,0,18,0,0,0,0,0,0,18
+OY01,Ibadan Study Centre,1232,1590,1312,17212,2165,1371,1643,4,26529
+OY02,Kisi Community Study Centre,22,39,14,26,1,9,8,0,119
+OY03,Okeho Community Study Centre,10,7,3,3,0,0,2,0,25
+PL01,Jos Study Centre,543,669,647,8677,1486,1275,2137,5,15439
+RV01,Nigerian Correctional Service Special Study Centre Port-Harcourt,26,28,7,211,14,17,41,0,344
+RV02,Portharcourt Study Centre,740,793,884,20774,4078,2868,3505,2,33644
+SO01,Sokoto Study Centre,96,264,193,1229,524,212,508,2,3028
+TR01,Jalingo Study Centre,78,116,109,1045,301,255,594,0,2498
+TR02,Wukari Study Centre,28,38,52,422,102,89,176,2,909
+UU00,Unknown,1,0,0,269,53,184,143,0,650
+YB01,Damaturu Study Centre,66,128,202,512,146,123,417,1,1595
+ZM01,Gusau Study Centre,72,163,174,667,210,123,334,2,1745
